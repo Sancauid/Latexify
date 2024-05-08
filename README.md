@@ -2,10 +2,14 @@
 
 ### Georgia Institute of Technology
 
-Group
+Group 
+
 Yuxiang Qiu
+
 Pablo San Francisco
+
 Alejandro Hinojosa Canada
+
 
 The following is a repository that contains Latexify. 
 
