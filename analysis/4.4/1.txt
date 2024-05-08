@@ -1,0 +1,1 @@
+target: \int_{-\epsilon}^{\infty}dl\:\mathrm{e}^{-l\zeta}\int_{-\epsilon}^{\infty}dl^{\prime}\mathrm{e}^{-l^{\prime}\zeta}ll^{\prime}{\frac{l^{\prime}-l}{l+l^{\prime}}}\{3\,\delta^{\prime\prime}(l)-{\frac{3}{4}}t\,\delta(l)\}=0.

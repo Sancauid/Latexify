@@ -1,0 +1,1 @@
+target: E_{ADM}=\frac{1}{16\piG_{10}}\oint_{\infty}d\Sigma^{m}\lbrace{}^{\circ}D_{n}g_{mp}-{}^{\circ}D_{m}g_{np}\rbrace{}^{\circ}g^{np}

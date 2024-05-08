@@ -1,0 +1,12 @@
+restnet18	11M
+restnet34	21M
+restnet50	23M
+restnet101	42M
+restnet150	58M
+convnext_tiny	27M
+convnext_small	49M
+convnext_base	87M
+convnext_large	196M
+swin_v2_t	27M
+swin_v2_s	48M
+swin_v2_b	86M

@@ -1,0 +1,1 @@
+To run each analysis, `cd` into the appropriate directory and run the Python file.
